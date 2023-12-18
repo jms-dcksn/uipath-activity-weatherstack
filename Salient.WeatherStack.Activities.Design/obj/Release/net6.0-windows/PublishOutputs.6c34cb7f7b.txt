@@ -1,0 +1,8 @@
+C:\Users\james.dickson\source\packages\weather\Salient.WeatherStack.Activities.Design.dll
+C:\Users\james.dickson\source\packages\weather\Salient.WeatherStack.Activities.Design.pdb
+C:\Users\james.dickson\source\packages\weather\Newtonsoft.Json.dll
+C:\Users\james.dickson\source\packages\weather\Salient.WeatherStack.Activities.dll
+C:\Users\james.dickson\source\packages\weather\Salient.WeatherStack.Activities.pdb
+C:\Users\james.dickson\source\packages\weather\Salient.WeatherStack.Activities.xml
+C:\Users\james.dickson\source\packages\weather\Salient.WeatherStack.Activities.Design.xml
+C:\Users\james.dickson\source\packages\weather\Salient.WeatherStack.Activities.Design.deps.json

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Salient.WeatherStack.Activities</id>
+    <version>0.2.0</version>
+    <authors>Salient Automation</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">Apache-2.0</license>
+    <licenseUrl>https://licenses.nuget.org/Apache-2.0</licenseUrl>
+    <projectUrl>https://docs.uipath.com/integrations/docs/how-to-create-activities</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/NuGet/Samples/master/PackageIconNuspecExample/icon.png</iconUrl>
+    <description>A simple Weather activity.</description>
+    <copyright>© 2022 Company</copyright>
+    <tags>Weather</tags>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\james.dickson\source\repos\Salient.WeatherStack\Salient.WeatherStack.Activities\bin\Release\net6.0\Salient.WeatherStack.Activities.dll" target="lib\net6.0-windows7.0\Salient.WeatherStack.Activities.dll" />
+    <file src="C:\Users\james.dickson\source\repos\Salient.WeatherStack\Salient.WeatherStack.Activities\bin\Release\net6.0\Salient.WeatherStack.Activities.xml" target="lib\net6.0-windows7.0\Salient.WeatherStack.Activities.xml" />
+    <file src="C:\Users\james.dickson\source\repos\Salient.WeatherStack\Salient.WeatherStack.Activities.Design\bin\Release\net6.0-windows\Salient.WeatherStack.Activities.Design.dll" target="lib\net6.0-windows7.0\Salient.WeatherStack.Activities.Design.dll" />
+    <file src="C:\Users\james.dickson\source\repos\Salient.WeatherStack\Salient.WeatherStack.Activities.Design\bin\Release\net6.0-windows\Salient.WeatherStack.Activities.Design.xml" target="lib\net6.0-windows7.0\Salient.WeatherStack.Activities.Design.xml" />
+    <file src="C:\Users\james.dickson\source\repos\Salient.WeatherStack\Salient.WeatherStack.Activities.Design\packageIcon.png" target="packageIcon.png" />
+  </files>
+</package>

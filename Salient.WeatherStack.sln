@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Salient.WeatherStack", "Salient.WeatherStack", "{DF603F2A-40AC-483C-BD38-382FF6890A94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salient.WeatherStack", "Salient.WeatherStack\Salient.WeatherStack.csproj", "{92CA205C-91AA-484A-BE9A-470AFAEAEEDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salient.WeatherStack.Activities", "Salient.WeatherStack.Activities\Salient.WeatherStack.Activities.csproj", "{EBEB7D5F-A177-464B-9CD8-7E037BAF3192}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salient.WeatherStack.Activities.Design", "Salient.WeatherStack.Activities.Design\Salient.WeatherStack.Activities.Design.csproj", "{A69BA514-41B7-4458-8EE7-B387E867DF71}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{073F754E-B80B-426A-BEF5-63226507C0CC}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "UiPath.Shared.Activities", "..\Shared\UiPath.Shared.Activities\UiPath.Shared.Activities.shproj", "{4546856D-EA50-45C6-9419-EEEACB5A80AA}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "UiPath.Shared.Activities.Design", "..\Shared\UiPath.Shared.Activities.Design\UiPath.Shared.Activities.Design.shproj", "{DF9C43F0-ADD3-4FBF-995E-84B92F9CBF25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92CA205C-91AA-484A-BE9A-470AFAEAEEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92CA205C-91AA-484A-BE9A-470AFAEAEEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92CA205C-91AA-484A-BE9A-470AFAEAEEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92CA205C-91AA-484A-BE9A-470AFAEAEEDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBEB7D5F-A177-464B-9CD8-7E037BAF3192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBEB7D5F-A177-464B-9CD8-7E037BAF3192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBEB7D5F-A177-464B-9CD8-7E037BAF3192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBEB7D5F-A177-464B-9CD8-7E037BAF3192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A69BA514-41B7-4458-8EE7-B387E867DF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69BA514-41B7-4458-8EE7-B387E867DF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69BA514-41B7-4458-8EE7-B387E867DF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69BA514-41B7-4458-8EE7-B387E867DF71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{92CA205C-91AA-484A-BE9A-470AFAEAEEDB} = {DF603F2A-40AC-483C-BD38-382FF6890A94}
+		{EBEB7D5F-A177-464B-9CD8-7E037BAF3192} = {DF603F2A-40AC-483C-BD38-382FF6890A94}
+		{A69BA514-41B7-4458-8EE7-B387E867DF71} = {DF603F2A-40AC-483C-BD38-382FF6890A94}
+		{4546856D-EA50-45C6-9419-EEEACB5A80AA} = {073F754E-B80B-426A-BEF5-63226507C0CC}
+		{DF9C43F0-ADD3-4FBF-995E-84B92F9CBF25} = {073F754E-B80B-426A-BEF5-63226507C0CC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0AE1E1C-40BE-40FA-AC0D-CC9ECBDB93A3}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\Shared\UiPath.Shared.Activities\UiPath.Shared.Activities.projitems*{4546856d-ea50-45c6-9419-eeeacb5a80aa}*SharedItemsImports = 13
+		..\Shared\UiPath.Shared.Activities.Design\UiPath.Shared.Activities.Design.projitems*{a69ba514-41b7-4458-8ee7-b387e867df71}*SharedItemsImports = 5
+		..\Shared\UiPath.Shared.Activities.Design\UiPath.Shared.Activities.Design.projitems*{df9c43f0-add3-4fbf-995e-84b92f9cbf25}*SharedItemsImports = 13
+		..\Shared\UiPath.Shared.Activities\UiPath.Shared.Activities.projitems*{ebeb7d5f-a177-464b-9cd8-7e037baf3192}*SharedItemsImports = 5
+	EndGlobalSection
+EndGlobal

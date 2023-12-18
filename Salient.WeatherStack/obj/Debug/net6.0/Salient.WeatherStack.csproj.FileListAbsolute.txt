@@ -1,0 +1,14 @@
+C:\Users\james.dickson\source\repos\Salient.WeatherStack\Salient.WeatherStack\bin\Debug\net6.0\Salient.WeatherStack.deps.json
+C:\Users\james.dickson\source\repos\Salient.WeatherStack\Salient.WeatherStack\bin\Debug\net6.0\Salient.WeatherStack.dll
+C:\Users\james.dickson\source\repos\Salient.WeatherStack\Salient.WeatherStack\bin\Debug\net6.0\Salient.WeatherStack.pdb
+C:\Users\james.dickson\source\repos\Salient.WeatherStack\Salient.WeatherStack\bin\Debug\net6.0\Salient.WeatherStack.xml
+C:\Users\james.dickson\source\repos\Salient.WeatherStack\Salient.WeatherStack\obj\Debug\net6.0\Salient.WeatherStack.Properties.Resources.resources
+C:\Users\james.dickson\source\repos\Salient.WeatherStack\Salient.WeatherStack\obj\Debug\net6.0\Salient.WeatherStack.csproj.GenerateResource.cache
+C:\Users\james.dickson\source\repos\Salient.WeatherStack\Salient.WeatherStack\obj\Debug\net6.0\Salient.WeatherStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james.dickson\source\repos\Salient.WeatherStack\Salient.WeatherStack\obj\Debug\net6.0\Salient.WeatherStack.AssemblyInfoInputs.cache
+C:\Users\james.dickson\source\repos\Salient.WeatherStack\Salient.WeatherStack\obj\Debug\net6.0\Salient.WeatherStack.AssemblyInfo.cs
+C:\Users\james.dickson\source\repos\Salient.WeatherStack\Salient.WeatherStack\obj\Debug\net6.0\Salient.WeatherStack.csproj.CoreCompileInputs.cache
+C:\Users\james.dickson\source\repos\Salient.WeatherStack\Salient.WeatherStack\obj\Debug\net6.0\Salient.WeatherStack.dll
+C:\Users\james.dickson\source\repos\Salient.WeatherStack\Salient.WeatherStack\obj\Debug\net6.0\refint\Salient.WeatherStack.dll
+C:\Users\james.dickson\source\repos\Salient.WeatherStack\Salient.WeatherStack\obj\Debug\net6.0\Salient.WeatherStack.pdb
+C:\Users\james.dickson\source\repos\Salient.WeatherStack\Salient.WeatherStack\obj\Debug\net6.0\ref\Salient.WeatherStack.dll
